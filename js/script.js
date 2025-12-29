@@ -9,11 +9,11 @@ function stopAllSounds() {
   });
 }
 
-document.getElementById("ABC").addEventListener("click", (ev) => {
-  stopAllSounds();
-  ev = document.getElementById("AaBbCc");
-  ev.play();
-});
+// document.getElementById("ABC").addEventListener("click", (ev) => {
+//   stopAllSounds();
+//   ev = document.getElementById("AaBbCc");
+//   ev.play();
+// });
 
 document.getElementById("ANA").addEventListener("click", (ev) => {
   stopAllSounds();
@@ -45,11 +45,11 @@ document.getElementById("CON").addEventListener("click", (ev) => {
   ev.play();
 });
 
-document.getElementById("CSA").addEventListener("click", (ev) => {
-  stopAllSounds();
-  ev = document.getElementById("CentroSportivoAlagoano");
-  ev.play();
-});
+// document.getElementById("CSA").addEventListener("click", (ev) => {
+//   stopAllSounds();
+//   ev = document.getElementById("CentroSportivoAlagoano");
+//   ev.play();
+// });
 
 document.getElementById("FIG").addEventListener("click", (ev) => {
   stopAllSounds();
@@ -81,11 +81,11 @@ document.getElementById("ITU").addEventListener("click", (ev) => {
   ev.play();
 });
 
-document.getElementById("LON").addEventListener("click", (ev) => {
-  stopAllSounds();
-  ev = document.getElementById("Londrina");
-  ev.play();
-});
+// document.getElementById("LON").addEventListener("click", (ev) => {
+//   stopAllSounds();
+//   ev = document.getElementById("Londrina");
+//   ev.play();
+// });
 
 document.getElementById("MAR").addEventListener("click", (ev) => {
   stopAllSounds();
@@ -93,38 +93,86 @@ document.getElementById("MAR").addEventListener("click", (ev) => {
   ev.play();
 });
 
-document.getElementById("NAU").addEventListener("click", (ev) => {
-  stopAllSounds();
-  ev = document.getElementById("Nautico");
-  ev.play();
-});
+// document.getElementById("NAU").addEventListener("click", (ev) => {
+//   stopAllSounds();
+//   ev = document.getElementById("Nautico");
+//   ev.play();
+// });
 
-document.getElementById("PON").addEventListener("click", (ev) => {
-  stopAllSounds();
-  ev = document.getElementById("PontePreta");
-  ev.play();
-});
+// document.getElementById("PON").addEventListener("click", (ev) => {
+//   stopAllSounds();
+//   ev = document.getElementById("PontePreta");
+//   ev.play();
+// });
 
-document.getElementById("RET").addEventListener("click", (ev) => {
-  stopAllSounds();
-  ev = document.getElementById("Retro");
-  ev.play();
-});
+// document.getElementById("RET").addEventListener("click", (ev) => {
+//   stopAllSounds();
+//   ev = document.getElementById("Retro");
+//   ev.play();
+// });
 
-document.getElementById("SBE").addEventListener("click", (ev) => {
-  stopAllSounds();
-  ev = document.getElementById("SaoBernardo");
-  ev.play();
-});
+// document.getElementById("SBE").addEventListener("click", (ev) => {
+//   stopAllSounds();
+//   ev = document.getElementById("SaoBernardo");
+//   ev.play();
+// });
 
-document.getElementById("TOM").addEventListener("click", (ev) => {
-  stopAllSounds();
-  ev = document.getElementById("Tombense");
-  ev.play();
-});
+// document.getElementById("TOM").addEventListener("click", (ev) => {
+//   stopAllSounds();
+//   ev = document.getElementById("Tombense");
+//   ev.play();
+// });
 
 document.getElementById("YPI").addEventListener("click", (ev) => {
   stopAllSounds();
   ev = document.getElementById("Ypiranga");
+  ev.play();
+});
+
+document.getElementById("AMA").addEventListener("click", (ev) => {
+  stopAllSounds();
+  ev = document.getElementById("Amazonas");
+  ev.play();
+});
+
+document.getElementById("PAY").addEventListener("click", (ev) => {
+  stopAllSounds();
+  ev = document.getElementById("Paysandu");
+  ev.play();
+});
+
+document.getElementById("FER").addEventListener("click", (ev) => {
+  stopAllSounds();
+  ev = document.getElementById("Ferroviaria");
+  ev.play();
+});
+
+document.getElementById("VOL").addEventListener("click", (ev) => {
+  stopAllSounds();
+  ev = document.getElementById("VoltaRedonda");
+  ev.play();
+});
+
+document.getElementById("BAR").addEventListener("click", (ev) => {
+  stopAllSounds();
+  ev = document.getElementById("Barra");
+  ev.play();
+});
+
+document.getElementById("INL").addEventListener("click", (ev) => {
+  stopAllSounds();
+  ev = document.getElementById("InternacionalLimeira");
+  ev.play();
+});
+
+document.getElementById("MAO").addEventListener("click", (ev) => {
+  stopAllSounds();
+  ev = document.getElementById("Maranhão");
+  ev.play();
+});
+
+document.getElementById("STA").addEventListener("click", (ev) => {
+  stopAllSounds();
+  ev = document.getElementById("SantaCruz");
   ev.play();
 });

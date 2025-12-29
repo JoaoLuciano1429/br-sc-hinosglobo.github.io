@@ -254,3 +254,101 @@ h1 {
   );
   border: 1px solid #bf0;
 }
+
+#BAR {
+  background-color: #dedede;
+  background-image: linear-gradient(
+    90deg,
+    #dedede 0%,
+    #0000de 25%,
+    #0000de 50%,
+    #0000de 75%,
+    #dedede 100%
+  );
+  border: 1px solid #0000de;
+}
+
+#INL {
+  background: #fff;
+  background-image: linear-gradient(
+    90deg,
+    #fff 0%,
+    #000 12.5%,
+    #fff 25%,
+    #000 37.5%,
+    #fff 50%,
+    #000 62.5%,
+    #fff 75%,
+    #000 87.5%,
+    #fff 100%
+  );
+  border: 1px solid #fff;
+}
+
+#MAO {
+  background: #000;
+  background-image: linear-gradient(
+    90deg,
+    #f00 0%,
+    #f00 12.5%,
+    #fff 25%,
+    #00f 37.5%,
+    #00f 50%,
+    #00f 62.5%,
+    #fff 75%,
+    #f00 87.5%,
+    #f00 100%
+  );
+  border: 1px solid #f00;
+}
+
+#STA {
+  background: #707070;
+  background-image: linear-gradient(
+    180deg,
+    #181818 0%,
+    #bbbbbb 50%,
+    #d44242 100%
+  );
+  border: 1px solid #885b5b;
+}
+
+#PAY {
+  background-color: #0065c4;
+  background-image: linear-gradient(90deg, #0065c4 0%, #fff 50%, #0065c4 100%);
+  border: 1px solid #0065c4;
+}
+
+#FER {
+  background-color: #520623;
+  background-image: linear-gradient(90deg, #520623 0%, #502 100%);
+  border: 1px solid #f2e0f6;
+}
+
+#FER > img {
+  width: 3rem;
+}
+
+#VOL {
+  background-color: #101010;
+  background-image: linear-gradient(
+    90deg,
+    #101010 0%,
+    #ef1 25%,
+    #101010 50%,
+    #ef1 75%,
+    #101010 100%
+  );
+  border: 1px solid #050505;
+}
+
+#AMA {
+  background-color: #000000;
+  background-image: linear-gradient(
+    90deg,
+    #000000 0%,
+    #ffe900 50%,
+    #000000 100%
+  );
+  border: 1px solid #770;
+}

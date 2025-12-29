@@ -1,0 +1,60 @@
+Rebaixados para Série D 2026:      
+      <button class="soundBtn" id="ABC">
+        <img src="img/ABC_FC_(E)_-_RN.svg.png" />
+        <audio
+          src="audio/hino do ABC Versão Globo original Kaike Santana.mp3"
+          id="AaBbCc"
+        ></audio>
+      </button>
+      <button class="soundBtn" id="CSA">
+        <img src="img/CSAal.png" />
+        <audio
+          src="audio/hino do CSA Versão Globo original Kaike Santana.mp3"
+          id="CentroSportivoAlagoano"
+        ></audio>
+      </button>
+      </button>
+      <button class="soundBtn" id="RET">
+        <img src="img/Retrô_FC_Brasil-PE_(BRA).png" />
+        <audio
+          src="audio/Hino Do Retrô FC Versão Globo (Trilha Globo NE).mp3"
+          id="Retro"
+        ></audio>
+      </button>
+      <button class="soundBtn" id="TOM">
+        <img src="img/TombenseFC.png" />
+        <audio
+          src="audio/Hino do Tombense-MG - Globo.mp3"
+          id="Tombense"
+        ></audio>
+      </button>
+
+Promovidos à Série B 2026:
+      <button class="soundBtn" id="LON">
+        <img src="img/LondrinaEC.png" />
+        <audio
+          src="audio/Hino do Londrina Globo (kasan_Kaike Santana).mp3"
+          id="Londrina"
+        ></audio>
+      </button>
+      <button class="soundBtn" id="NAU">
+        <img src="img/nautico.png" />
+        <audio
+          src="audio/Hino do Náutico-PE 🇵🇪 _ Globo [HQ-ADAPTADO].mp3"
+          id="Nautico"
+        ></audio>
+      </button>
+      <button class="soundBtn" id="PON">  
+        <img src="img/Ponte_Preta.png" />
+        <audio
+          src="audio/hino da Ponte Preta Versão Globo original Kaike Santana.mp3"
+          id="PontePreta"
+        ></audio>
+      </button>
+      <button class="soundBtn" id="SBE">
+        <img src="img/São_Bernardo_Futebol_Clube_Logo.PNG" />
+        <audio
+          src="audio/Hino do São Bernardo Globo @FutezadaFC.mp3"
+          id="SaoBernardo"
+        ></audio>
+      </button>
